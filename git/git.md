@@ -26,3 +26,9 @@ Obs: _Origin é um aliás para o endereço do servidor remoto. Main é o nome da
 
 ## Atualizar (puxar) código do repositório remoto "origin" para a branch local "main"
 `git pull origin main`
+
+## Página de ajuda do Github para configuração de conexão por SSH
+[Conectar-se ao GitHub com o SSH](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh)
+
+## Página com informações úteis de marcadores MarkDown do GitHub
+[Markdown Cheatsheet Repo](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
