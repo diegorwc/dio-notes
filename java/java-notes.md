@@ -10,8 +10,8 @@
 - O Java Development Kit (JDK) é usado para compilar o código fonte
 - Arquivos de bytecode gerados possuem a extensão .class (bytecode)
 - OpenJDK x JDK
- - JDK é de propriedade da Oracle
- - OpenJDK é de código aberto
+  - JDK é de propriedade da Oracle
+  - OpenJDK é de código aberto
  - Não existe diferença de desempenho
  - Java possui versões de Long Term Support (LTS)
 - Integrated Development Environment (IDE)
