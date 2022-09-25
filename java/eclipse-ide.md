@@ -15,6 +15,6 @@
 #### Git
 - Para iniciar o versionamento é necessário clicar com o botão direito no Projeto (na janela esquerda "Package Explorer", selecionar o menu Team e configurar o repositório
 - Para realizar o commit também é necessário acessar o menu Team (como descrito no tópico anterior) e selecionar o menu Commit e realizar as ações necessárias
-- __Obs: Para o correto funcionamento dos recursos de git do eclipse foi necessário gerar uma [token de acesso no github](https://docs.github.com/pt/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+- __Obs: Para o correto funcionamento dos recursos de git do eclipse foi necessário gerar uma [token de acesso no github](https://docs.github.com/pt/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)__ 
 
 
