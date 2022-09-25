@@ -1,0 +1,13 @@
+### Notas
+
+- Perspectivas são as formas de visualização do Eclipse, o modo como as janelas das diferentes ferramentas estão dispostas na interface
+- No atalho Ctrl+3 (ou clicando na lupa do canto superior direito) é possível alterar a perspectiva (outras opções de perspectiva, por exemplo, são git, debug, etc...)
+- No atalho Ctrl+N é possível criar um novo projeto, uma nova classe
+- O autocomplete de código do Eclipse pode ser acionado pelo atalho Ctrl+Espaço
+- O atalho F2 serve para renomear um pacote ou classe
+- O atalho Ctrl+M expande a janela atualmente selecionada e oculta as demais. Acionando o atalho novamente a 'perspectiva' anterior é restaurada.
+- Abrindo a paleta de comandos (Ctrl+3) é possível gerar um construtor baseado nos atributos já descritos da classe
+- O atalho Ctrl+d apaga uma linha inteira
+- É possível movimentar um bloco de código selecionado através do atalho Alt+seta(Cima/Baixo)
+- O atalho Ctrl+Shift+F ajusta a indentação do código
+- O atalho Ctrl+Shift+o serve para automaticamente importar uma classe que está sendo usada no arquivo atual
