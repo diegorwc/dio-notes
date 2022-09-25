@@ -1,0 +1,21 @@
+# Notas
+
+- Linguagem orientada a objetos e interpretada pela Java Virtual Machine (JVM)
+- Java é compilado para bytecode e depois interpretado pela JVM
+- Diferença entre Plataforma Java x Linguagem Java
+ - Existe mais de uma "versão" da linguagem, com características mais apropriadas para aplicações específicas (ME -> embarcados, EE -> Web, etc...)
+ - Java SE, Java EE, Java ME entre outras
+- Para que um dispositivo consiga executar código java basta que ele tenha suporte ao Java Runtime Environment (JRE)
+- Extensão de arquivos fonte é .java
+- O Java Development Kit (JDK) é usado para compilar o código fonte
+- Arquivos de bytecode gerados possuem a extensão .class (bytecode)
+- OpenJDK x JDK
+ - JDK é de propriedade da Oracle
+ - OpenJDK é de código aberto
+ - Não existe diferença de desempenho
+ - Java possui versões de Long Term Support (LTS)
+- Integrated Development Environment (IDE)
+ - Eclipse
+   - Open source
+ - IntelliJ IDEA
+   - Duas versões (Community -> gratuita, Ultimate -> paga)
