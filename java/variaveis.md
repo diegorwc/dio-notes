@@ -1,0 +1,18 @@
+## Notas
+- Variável é um espaço na memória do computador onde se pode guardar valores
+- Tipos: instância, classe, local, parâmetro
+- padrão de definição de variável em java: visibilidade modificador tipo nome = valorInicial
+  - valorInicial é opcional
+  - visibilidade é opcional
+  - modificador é opcional
+- Java é fortemente tipada, o tipo da variável sempre deve ser informado
+- Evitar usar $ e _ em nomes de variáveis
+- Os nomes são case sensitive
+  - java != JAVA
+- Não se pode usar números como primeiro caractere no nome de uma variável
+- Boas práticas nos nomes de variáveis
+  - Sempre começar com letra minúscula
+  - nomes que signifiquem algo relevante e permitam entender a variável
+  - usar camelCase
+  - constantes devem ser escritas inteiramente em maiúsculas
+- Constantes são definidas com a palavra reservada final
